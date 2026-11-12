@@ -1,0 +1,6 @@
+{
+  "name": "YAQEENALLAH HEART AI",
+  "description": "Real-Time Cardiovascular Intelligence Platform with live medical evidence, deterministic emergency screening, Heart Memory, Cardio Continuity OS, and multi-agent clinical dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
